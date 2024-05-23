@@ -2,4 +2,4 @@ Homework:
 
 Star Wars Project:
 
-Added Form for recoring a text message, parsing planet list, etc
+Added Form for recording a text message, parsing planet list, etc
